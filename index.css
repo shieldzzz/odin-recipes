@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+
+ul {
+    list-style-position: inside;
+
+}
+
+body {
+    display: grid;
+    position: relative;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background: linear-gradient(90deg, #fa9c38, #131313 )
+
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
